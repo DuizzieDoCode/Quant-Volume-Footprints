@@ -23,4 +23,8 @@
     - 1‑minute OHLCV candles.
     - High‑notional BUY/SELL markers `{time, price, volume, result}`.
   - Health and monitoring endpoints (`/`, `/health`) exposing live server, database, and data‑feed status.
+ 
+  - ## 🎥 Live Backend Demo
+
+![System Demo](backendVolume2.gif)
 
