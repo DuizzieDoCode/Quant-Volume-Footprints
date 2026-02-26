@@ -24,7 +24,7 @@
     - High‑notional BUY/SELL markers `{time, price, volume, result}`.
   - Health and monitoring endpoints (`/`, `/health`) exposing live server, database, and data‑feed status.
  
-- ** High Level System Architecture  ![Design](VOLUME ANALYSER.png)
+- ![High Level System Architecture](VOLUME_ANALYSER.png)
  
   - ## 🎥 Live Backend Demo
 
